@@ -2,6 +2,7 @@
 
 # Why?
 There's just a scheme for connecting a Raspberry Pi (the fourth model) with the disk. Suggest to be as an instruction.
+It also suggests that user has already a pre-installed operating system in storage device (e.g. SD card)
 
 # Preparation:
 * Raspberry Pi (model 4).
