@@ -16,3 +16,6 @@ There's just a scheme for connecting a Raspberry Pi (the fourth model) with the 
 Although, it is not necessary to have any storage device (not including storage for an OS) and adapter in order to turn microPC on and run it. If you don't want to keep data while using Raspbery Pi - you can remove the last two ones from the preparation list and keep data in a disk where your OS is.
 
 You can see or download (with .drawio extension) the scheme-image in the file of repository
+
+# Preview
+<img width="1055" height="831" alt="image" src="https://github.com/user-attachments/assets/0aa70376-e08e-414d-8d3b-8db85a301547" />
